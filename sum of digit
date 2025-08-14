@@ -1,0 +1,16 @@
+package DAY7;
+
+import DAY4.sumofdigit;
+
+public class argument {
+public void display()
+		{
+			System.out.println("who are you");
+		}
+		public static void mani(String[] args)
+		{
+			sumofdigit obj=new sumofdigit();
+			obj.display();
+		}
+         
+	}
