@@ -1,0 +1,15 @@
+package Day7;
+
+public class argument {
+	public void display()
+	{
+		System.out.println("Hi Nice to meet you");
+	}
+    public static void main(String[]args)
+    {
+
+
+
+	}
+
+}
